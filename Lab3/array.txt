@@ -1,0 +1,24 @@
+ int[][] Ageofstudent = new int[Numoftracks][];
+ for (int i = 0; i < Numoftracks; i++) 
+ {
+
+     Ageofstudent[i] = new int[Numofstudednt];
+
+ }
+ for (int i = 0; i < Numoftracks; i++) {
+
+     Console.WriteLine($"\nAge of Students in Track: {i + 1}\n");
+     for (int j = 0; j < Ageofstudent[i].Length; j++) {
+         Ageofstudent[i][j] = int.Parse(Console.ReadLine());
+
+     }
+ }
+ Console.WriteLine("\n Ages of Students:");
+ for (int i = 0; i < Numoftracks; i++) {
+
+     Console.WriteLine($"\nTrack {i + 1}");
+     for (int j = 0; j < Ageofstudent[i].Length; j++) {
+         Console.WriteLine($"Age of Student {j + 1}: {Ageofstudent[i][j]}");
+     
+     }
+ }
