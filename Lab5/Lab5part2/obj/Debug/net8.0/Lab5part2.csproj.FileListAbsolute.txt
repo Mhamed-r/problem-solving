@@ -1,0 +1,14 @@
+C:\Users\Mhamed\source\repos\Lab5\Lab5part2\bin\Debug\net8.0\Lab5part2.exe
+C:\Users\Mhamed\source\repos\Lab5\Lab5part2\bin\Debug\net8.0\Lab5part2.deps.json
+C:\Users\Mhamed\source\repos\Lab5\Lab5part2\bin\Debug\net8.0\Lab5part2.runtimeconfig.json
+C:\Users\Mhamed\source\repos\Lab5\Lab5part2\bin\Debug\net8.0\Lab5part2.dll
+C:\Users\Mhamed\source\repos\Lab5\Lab5part2\bin\Debug\net8.0\Lab5part2.pdb
+C:\Users\Mhamed\source\repos\Lab5\Lab5part2\obj\Debug\net8.0\Lab5part2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mhamed\source\repos\Lab5\Lab5part2\obj\Debug\net8.0\Lab5part2.AssemblyInfoInputs.cache
+C:\Users\Mhamed\source\repos\Lab5\Lab5part2\obj\Debug\net8.0\Lab5part2.AssemblyInfo.cs
+C:\Users\Mhamed\source\repos\Lab5\Lab5part2\obj\Debug\net8.0\Lab5part2.csproj.CoreCompileInputs.cache
+C:\Users\Mhamed\source\repos\Lab5\Lab5part2\obj\Debug\net8.0\Lab5part2.dll
+C:\Users\Mhamed\source\repos\Lab5\Lab5part2\obj\Debug\net8.0\refint\Lab5part2.dll
+C:\Users\Mhamed\source\repos\Lab5\Lab5part2\obj\Debug\net8.0\Lab5part2.pdb
+C:\Users\Mhamed\source\repos\Lab5\Lab5part2\obj\Debug\net8.0\Lab5part2.genruntimeconfig.cache
+C:\Users\Mhamed\source\repos\Lab5\Lab5part2\obj\Debug\net8.0\ref\Lab5part2.dll
