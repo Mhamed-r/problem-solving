@@ -1,0 +1,14 @@
+E:\ITI\Intro C#\Labs\Lab4\Lab4\obj\Debug\net8.0\Lab4.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\Intro C#\Labs\Lab4\Lab4\obj\Debug\net8.0\Lab4.AssemblyInfoInputs.cache
+E:\ITI\Intro C#\Labs\Lab4\Lab4\obj\Debug\net8.0\Lab4.AssemblyInfo.cs
+E:\ITI\Intro C#\Labs\Lab4\Lab4\obj\Debug\net8.0\Lab4.csproj.CoreCompileInputs.cache
+E:\ITI\Intro C#\Labs\Lab4\Lab4\bin\Debug\net8.0\Lab4.exe
+E:\ITI\Intro C#\Labs\Lab4\Lab4\bin\Debug\net8.0\Lab4.deps.json
+E:\ITI\Intro C#\Labs\Lab4\Lab4\bin\Debug\net8.0\Lab4.runtimeconfig.json
+E:\ITI\Intro C#\Labs\Lab4\Lab4\bin\Debug\net8.0\Lab4.dll
+E:\ITI\Intro C#\Labs\Lab4\Lab4\bin\Debug\net8.0\Lab4.pdb
+E:\ITI\Intro C#\Labs\Lab4\Lab4\obj\Debug\net8.0\Lab4.dll
+E:\ITI\Intro C#\Labs\Lab4\Lab4\obj\Debug\net8.0\refint\Lab4.dll
+E:\ITI\Intro C#\Labs\Lab4\Lab4\obj\Debug\net8.0\Lab4.pdb
+E:\ITI\Intro C#\Labs\Lab4\Lab4\obj\Debug\net8.0\Lab4.genruntimeconfig.cache
+E:\ITI\Intro C#\Labs\Lab4\Lab4\obj\Debug\net8.0\ref\Lab4.dll
