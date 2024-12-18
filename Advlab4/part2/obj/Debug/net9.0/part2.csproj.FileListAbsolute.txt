@@ -1,0 +1,14 @@
+D:\ITI\Intro C#\Labs\Advlab4\part2\bin\Debug\net9.0\part2.exe
+D:\ITI\Intro C#\Labs\Advlab4\part2\bin\Debug\net9.0\part2.deps.json
+D:\ITI\Intro C#\Labs\Advlab4\part2\bin\Debug\net9.0\part2.runtimeconfig.json
+D:\ITI\Intro C#\Labs\Advlab4\part2\bin\Debug\net9.0\part2.dll
+D:\ITI\Intro C#\Labs\Advlab4\part2\bin\Debug\net9.0\part2.pdb
+D:\ITI\Intro C#\Labs\Advlab4\part2\obj\Debug\net9.0\part2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Intro C#\Labs\Advlab4\part2\obj\Debug\net9.0\part2.AssemblyInfoInputs.cache
+D:\ITI\Intro C#\Labs\Advlab4\part2\obj\Debug\net9.0\part2.AssemblyInfo.cs
+D:\ITI\Intro C#\Labs\Advlab4\part2\obj\Debug\net9.0\part2.csproj.CoreCompileInputs.cache
+D:\ITI\Intro C#\Labs\Advlab4\part2\obj\Debug\net9.0\part2.dll
+D:\ITI\Intro C#\Labs\Advlab4\part2\obj\Debug\net9.0\refint\part2.dll
+D:\ITI\Intro C#\Labs\Advlab4\part2\obj\Debug\net9.0\part2.pdb
+D:\ITI\Intro C#\Labs\Advlab4\part2\obj\Debug\net9.0\part2.genruntimeconfig.cache
+D:\ITI\Intro C#\Labs\Advlab4\part2\obj\Debug\net9.0\ref\part2.dll
