@@ -1,0 +1,14 @@
+D:\ITI\Intro C#\Labs\Advday3\Advday3\obj\Debug\net9.0\Advday3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Intro C#\Labs\Advday3\Advday3\obj\Debug\net9.0\Advday3.AssemblyInfoInputs.cache
+D:\ITI\Intro C#\Labs\Advday3\Advday3\obj\Debug\net9.0\Advday3.AssemblyInfo.cs
+D:\ITI\Intro C#\Labs\Advday3\Advday3\obj\Debug\net9.0\Advday3.csproj.CoreCompileInputs.cache
+D:\ITI\Intro C#\Labs\Advday3\Advday3\bin\Debug\net9.0\Advday3.exe
+D:\ITI\Intro C#\Labs\Advday3\Advday3\bin\Debug\net9.0\Advday3.deps.json
+D:\ITI\Intro C#\Labs\Advday3\Advday3\bin\Debug\net9.0\Advday3.runtimeconfig.json
+D:\ITI\Intro C#\Labs\Advday3\Advday3\bin\Debug\net9.0\Advday3.dll
+D:\ITI\Intro C#\Labs\Advday3\Advday3\bin\Debug\net9.0\Advday3.pdb
+D:\ITI\Intro C#\Labs\Advday3\Advday3\obj\Debug\net9.0\Advday3.dll
+D:\ITI\Intro C#\Labs\Advday3\Advday3\obj\Debug\net9.0\refint\Advday3.dll
+D:\ITI\Intro C#\Labs\Advday3\Advday3\obj\Debug\net9.0\Advday3.pdb
+D:\ITI\Intro C#\Labs\Advday3\Advday3\obj\Debug\net9.0\Advday3.genruntimeconfig.cache
+D:\ITI\Intro C#\Labs\Advday3\Advday3\obj\Debug\net9.0\ref\Advday3.dll
